@@ -13,7 +13,7 @@ class IndiceApuntesController extends Controller
      */
     public function index()
     {
-        return 'indece';
+        return 'De La Web HB';
     }
 
     /**
