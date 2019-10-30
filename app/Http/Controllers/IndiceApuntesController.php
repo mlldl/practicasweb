@@ -13,8 +13,7 @@ class IndiceApuntesController extends Controller
      */
     public function index()
     {
-        return 'De La Web HB';
-        return 'subido con ssh';
+        return view('introduccion.indice');
     }
 
     /**
